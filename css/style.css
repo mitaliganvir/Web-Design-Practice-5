@@ -73,14 +73,14 @@ nav a:hover, a:focus {
   transition: top 1s ease-out;
   z-index: 1;
   position: absolute;
-  margin-top: -50px;
+  top: -50px;
 
   /*Your code here*/
 }
 /*Req 3b*/
 /*Write selector/rule property to position the skip class element*/
 .skip a:focus {
-  margin-top: 10px;
+  top: 10px;
 }
 /*Req 4*/
 /*Write selector/rule property to style all elements when in focus*/
